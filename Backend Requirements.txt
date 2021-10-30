@@ -1,5 +1,5 @@
-Create share_cost named htmlclass's process as required
-share_cost class contains the cost of one share detail
+Create share_cost named input type 
+share_cost contains the cost of one share detail
 @event.getPerShareCost function - returns PerShare cost for the event
 @Advertisements.get(index).getAdvertisementId()
 @Advertisements.get(index).getEventId()
